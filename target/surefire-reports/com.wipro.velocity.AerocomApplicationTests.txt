@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.wipro.velocity.AerocomApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.286 s <<< FAILURE! - in com.wipro.velocity.AerocomApplicationTests
+com.wipro.velocity.AerocomApplicationTests  Time elapsed: 0.284 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
